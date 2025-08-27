@@ -1,0 +1,31 @@
+=== STUDENT GRADE REPORT ===
+Generated: 2025-08-15 09:12:25
+
+Alice Johnson (ID: 102): Score = 92, Grade = A
+Benjamin Taylor (ID: 113): Score = 74, Grade = B
+Bob Williams (ID: 103): Score = 78, Grade = B
+Charlotte Lee (ID: 114): Score = 49, Grade = F
+Daniel White (ID: 115): Score = 90, Grade = A
+David Wilson (ID: 107): Score = 95, Grade = A
+Emma Brown (ID: 104): Score = 65, Grade = C
+James Martinez (ID: 109): Score = 58, Grade = D
+John Smith (ID: 101): Score = 85, Grade = A
+Mia Thomas (ID: 112): Score = 53, Grade = D
+Michael Davis (ID: 105): Score = 88, Grade = A
+Olivia Garcia (ID: 108): Score = 45, Grade = F
+Sarah Miller (ID: 106): Score = 72, Grade = B
+Sophia Rodriguez (ID: 110): Score = 81, Grade = A
+William Anderson (ID: 111): Score = 69, Grade = C
+
+=== SUMMARY ===
+Total Students: 15
+Average Score: 72.93
+Highest Score: 95 (David Wilson)
+Lowest Score: 45 (Olivia Garcia)
+
+Grade Distribution:
+A: 6 students
+B: 3 students
+C: 2 students
+D: 2 students
+F: 2 students
